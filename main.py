@@ -145,8 +145,8 @@ def root():
         
         <div class="box" style="margin-top: 20px;">
             <h2>Payment Info</h2>
-            <p><strong>BTC:</strong> YOUR_BTC_ADDRESS_HERE</p>
-            <p><strong>ETH:</strong> YOUR_ETH_ADDRESS_HERE</p>
+            <p><strong>BTC:</strong> bc1q3zf55dn7zxy0gvpaak2qqncm2j6z47szx4c8z8</p>
+            <p><strong>ETH:</strong> 0xec27De22C1cB74b6a63209C153F080a1657709b2</p>
             <p><strong>Pricing:</strong> Simple fix: 0.001 BTC | Complex fix: 0.005 BTC | Code review: 0.002 BTC</p>
         </div>
         
